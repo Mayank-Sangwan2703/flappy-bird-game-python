@@ -4,8 +4,10 @@ A fully-featured and polished clone of the iconic **Flappy Bird**, built with **
 
 This version isn’t just a clone — it includes game modes, high score tracking, theme switching, and more.
 
-
 ---
+
+## Demo video link: https://youtube.com/shorts/NfZraY1RPY0?si=Ai4jfM0e3i7ZcO60
+
 
 ##  Features
 
