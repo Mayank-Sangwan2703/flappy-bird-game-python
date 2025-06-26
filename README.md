@@ -1,4 +1,4 @@
-A fully modular, object-oriented Flappy Bird game with additional features built with Python and Pygame.
+A complete Flappy Bird game built with Python using OOP, difficulty modes, themes, and high score tracking.
 
 Features
 
@@ -7,3 +7,4 @@ Features
 - High Score tracker
 - Smooth transitions and clean UI
 - Audio and collision effects
+
